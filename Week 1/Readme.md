@@ -1,3 +1,4 @@
+WEEK 1: 
 This is a Crash Course on Python. 
 By Google, under Google IT Automation with Python 
 
