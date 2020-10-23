@@ -1,6 +1,6 @@
 # For Loop
 
-For loops allow you to iterate over a sequence of values. Let's take the example from the beginning of the video:
+For loops allow you to iterate over a sequence of values. Let's take the example -
 
 for x in range(5):
 
@@ -15,8 +15,7 @@ The power of for loops comes from the fact that it can iterate over a sequence o
 Not sure whether to use a for loop or a while loop? Remember that a while loop is great for performing an action over and over until a condition has changed. A for loop works well when you want to iterate over a sequence of elements.
 
 # The Range() Function
-
-Previously we had used the range() function by passing it a single parameter, and it generated a sequence of numbers from 0 to one less than we specified. But the range() function can do much more than that. We can pass in two parameters: the first specifying our starting point, the second specifying the end point. Don't forget that the sequence generated won't contain the last element; it will stop one before the parameter specified.
+We have used the range() function by passing it a single parameter, and it generated a sequence of numbers from 0 to one less than we specified. We can pass in two parameters: the first specifying our starting point, the second specifying the end point. Don't forget that the sequence generated won't contain the last element; it will stop one before the parameter specified.
 
 The range() function can take a third parameter, too. This third parameter lets you  alter the size of each step. So instead of creating a sequence of numbers incremented by 1, you can generate a sequence of numbers that are incremented by 5.
 
