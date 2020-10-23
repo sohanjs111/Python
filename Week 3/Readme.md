@@ -33,7 +33,7 @@ A for loop iterates over a sequence of elements, executing the body of the loop 
 
 Syntax:
 
-for variable in sequence
+for variable in sequence:
     body
     
 The range() function:
