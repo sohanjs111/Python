@@ -18,6 +18,7 @@ A while loop executes the body of the loop while the condition remains True.
 Syntax:
 
 while condition:
+
     body
 
 Things to watch out for!
@@ -34,6 +35,7 @@ A for loop iterates over a sequence of elements, executing the body of the loop 
 Syntax:
 
 for variable in sequence:
+
     body
     
 The range() function:
