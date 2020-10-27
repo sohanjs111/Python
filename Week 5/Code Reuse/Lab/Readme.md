@@ -114,3 +114,8 @@ First, we import the module. Next, we call the **now()** method which belongs to
 When we call the print function with an instance of the datetime class, we get the date and time printed in a specific format. This is because the datetime class has a **__str__** method defined which generates the formatted string we see here. We can also directly call attributes and methods of the class, as with **now.year** which returns the year attribute of the instance.
 
 Lastly, we can access other classes contained in the datetime module, like the **timedelta** class. In this example, we’re creating an instance of the timedelta class with the parameter of 28 days. We’re then adding this object to our instance of the datetime class from earlier and printing the result. This has the effect of adding 28 days to our original datetime object.
+
+# Supplemental Reading for Code Reuse
+The official Python documentation lists all the modules included in the standard library. It even has a turtle in it...
+
+[Pypi](https://pypi.org/) is the Python repository and index of an impressive number of modules developed by Python programmers around the world.
